@@ -1,5 +1,5 @@
 
-#  <p align="center" >  Curso Flask parrte 2 da Alura </p> 
+#  <p align="center" >  Curso Flask parte 2 da Alura </p> 
 -------------------------------------------------
 
 <p align="center">
